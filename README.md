@@ -7,7 +7,7 @@
 ## Table Of Contents
 
 - **Informative**
-_ **Planned Features**
+- **Planned Features**
 - **Installation**
 - **Use**
 - **Issues**
