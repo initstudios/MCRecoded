@@ -1,4 +1,4 @@
-### MCR Mod![](https://img.shields.io/badge/InitStudios-Official-brightgreen.svg) ![](https://img.shields.io/badge/Minecraft-1.12.2-green.svg) ![https://discord.gg/Sh3y6HK](https://img.shields.io/discord/482004557379928065.svg)
+# MCR Mod ![](https://img.shields.io/badge/InitStudios-Official-brightgreen.svg) ![](https://img.shields.io/badge/Minecraft-1.12.2-green.svg) ![https://discord.gg/Sh3y6HK](https://img.shields.io/discord/482004557379928065.svg)
 ## (Minecraft Recoded)
 
 ##### Minecraft Recoded is a mod for Minecraft Forge, created by Init Studios (in collaboration with Fractal Studios)
