@@ -1,7 +1,7 @@
 ### MCR Mod![](https://img.shields.io/badge/InitStudios-Official-brightgreen.svg) ![](https://img.shields.io/badge/Minecraft-1.12.2-green.svg) ![https://discord.gg/Sh3y6HK](https://img.shields.io/discord/482004557379928065.svg)
 ## (Minecraft Recoded)
 
-##### Minecraft Recoded is a... themed mod for Minecraft Forge, created by Init Studios (in collaboration with Fractal Studios)
+##### Minecraft Recoded is a mod for Minecraft Forge, created by Init Studios (in collaboration with Fractal Studios)
 
 
 ## Table Of Contents
@@ -12,8 +12,9 @@ _ **Planned Features**
 - **Use**
 - **Issues**
 - **Licensing**
+- **Authors**
 - **Recruting**
-- **Contact**
+- **Contacting**
 
 
 ## Informative
@@ -68,6 +69,13 @@ If you encounter any issues to do with the mod (such as bugs), let us know [here
 
 This mod is under the [PLEASE INSERT LICENCE]().
 
+## Authors
+
+* [Asc4](https://www.github.com/Asc4Yin)
+* [Dewy](https://www.github.com/iBuyMountainDew)
+* [Best2327](https://www.github.com/best2327)
+* [UK](https://www.github.com/UKMinecrafted)
+* [iBuyFedoras](https://github.com/)
 
 ## Recruiting
 We are open for all roles. Everyone is welcome, we'll need as much help as we can get.
